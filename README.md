@@ -5,7 +5,7 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 
 ### Back-End Skills:
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![NODEJS](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=nodejs&logoColor=white) 
 <!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
