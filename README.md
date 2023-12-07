@@ -28,7 +28,7 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saman-Azizi-siyan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/solaiman-naderi) 
 
 <!-- # 💻 Tech Stack: -->
 
