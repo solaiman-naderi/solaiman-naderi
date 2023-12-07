@@ -3,6 +3,13 @@
 
 As a Back End Developer with more than 8 years of experience in creating webApplications and analyzing projects and databases. Have worked in agile environments with teammates from 5 to 15 people.Have optimized and refactored code base from scratch to increase 65 performance boost in radiscar project. 
 
+
+
+### Front-End Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,redux,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=threejs,materialui)](https://skillicons.dev)
+
 ### Back-End Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
@@ -17,10 +24,6 @@ As a Back End Developer with more than 8 years of experience in creating webAppl
 
  
 
-### Front-End Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,redux,vue)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=threejs,materialui)](https://skillicons.dev)
  
 
 
