@@ -7,7 +7,7 @@ As a Front End Developer with more than 5 years of experience in creating webApp
 
 ### Front-End Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,redux,zustand,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,redux,vue)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=threejs,materialui)](https://skillicons.dev)
 
 ### Back-End Skills:
